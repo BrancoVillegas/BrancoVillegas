@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#00d26a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00b4d8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="#0d1117"/>
+  <text x="600" y="75" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">Branco Villegas</text>
+  <text x="600" y="115" font-family="Fira Code, monospace" font-size="18" fill="#00d26a" text-anchor="middle">Software Engineer | Full Stack &amp; Computer Vision</text>
+  <line x1="350" y1="140" x2="850" y2="140" stroke="url(#grad)" stroke-width="2"/>
+  <path d="M0,180 Q300,140 600,170 Q900,200 1200,160 L1200,200 L0,200 Z" fill="url(#grad)" opacity="0.3"/>
+  <path d="M0,190 Q300,160 600,185 Q900,210 1200,175 L1200,200 L0,200 Z" fill="url(#grad)" opacity="0.5"/>
+</svg>
