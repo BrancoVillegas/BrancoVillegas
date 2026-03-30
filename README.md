@@ -65,8 +65,8 @@ interests:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrancoVillegas&hide_border=true&border_radius=15&ring=00d26a&fire=00d26a&currStreakLabel=00d26a&sideLabels=00d26a&dates=555555&background=0d1117&stroke=00d26a&currStreakNum=ffffff&sideNums=ffffff" width="52%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrancoVillegas&theme=github_dark" width="38%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrancoVillegas&hide_border=true&border_radius=15&ring=00d26a&fire=00d26a&currStreakLabel=00d26a&sideLabels=00d26a&dates=555555&background=0d1117&stroke=00d26a&currStreakNum=ffffff&sideNums=ffffff" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrancoVillegas&theme=github_dark" height="195" />
 </div>
 
 <br/>
