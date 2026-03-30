@@ -1,28 +1,28 @@
-<h1 align="center">Hola, soy Branco Villegas</h1>
-<h3 align="center">Ingeniero de Software | Full Stack & Vision Computacional</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/branco-villegas-peralta-9b4195242/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:villegas.bavp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+# Branco Villegas Peralta
 
----
+**Ingeniero de Software | Full Stack & Vision Computacional**
 
-### Sobre mi
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/branco-villegas-peralta-9b4195242/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:villegas.bavp@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrancoVillegas)
+
+</div>
+
+## Sobre mi
 
 Ingeniero de Software egresado de la **Universidad Peruana de Ciencias Aplicadas (UPC)**, quinto superior de la promocion. Experiencia en desarrollo full stack y vision computacional aplicada al sector minero. He trabajado con sistemas RAG, modelos YOLO y despliegues en la nube.
 
-- Actualmente trabajo en **CODEa UNI** como Desarrollador Full Stack & Instructor de Tecnologia
+- Actualmente en **CODEa UNI** como Desarrollador Full Stack & Instructor de Tecnologia
 - Experiencia previa en el **Banco Central de Reserva del Peru (BCRP)** y **Medalu Tech**
 - Lima, Peru
 
----
+## Tech Stack
 
-### Tech Stack
+<table>
+<tr>
+<td valign="top" width="33%">
 
 #### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -32,6 +32,9 @@ Ingeniero de Software egresado de la **Universidad Peruana de Ciencias Aplicadas
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -45,7 +48,10 @@ Ingeniero de Software egresado de la **Universidad Peruana de Ciencias Aplicadas
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-#### IA & Vision Computacional
+</td>
+<td valign="top" width="33%">
+
+#### IA & CV
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![LLaMA](https://img.shields.io/badge/LLaMA-7B2D8B?style=flat-square&logoColor=white)
 
@@ -61,25 +67,35 @@ Ingeniero de Software egresado de la **Universidad Peruana de Ciencias Aplicadas
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+</td>
+</tr>
+</table>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrancoVillegas&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrancoVillegas&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" width="41%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrancoVillegas&theme=tokyonight" width="91%" />
+</div>
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrancoVillegas/BrancoVillegas/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrancoVillegas/BrancoVillegas/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/BrancoVillegas/BrancoVillegas/output/github-snake.svg" />
+  </picture>
+</div>
+
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrancoVillegas&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrancoVillegas&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrancoVillegas&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrancoVillegas/BrancoVillegas/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrancoVillegas/BrancoVillegas/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/BrancoVillegas/BrancoVillegas/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BrancoVillegas&style=flat-square&color=0077B5" />
+</div>
