@@ -72,13 +72,13 @@ interests:
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrancoVillegas&theme=github_dark" width="91%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrancoVillegas&theme=github_dark" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrancoVillegas&bg_color=0d1117&color=00d26a&line=00d26a&point=ffffff&area=true&area_color=00d26a&hide_border=true&custom_title=Contribution%20Graph" width="91%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrancoVillegas&bg_color=0d1117&color=00d26a&line=00d26a&point=ffffff&area=true&area_color=00d26a&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 </div>
 
 ---
